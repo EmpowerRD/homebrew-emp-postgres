@@ -1,10 +1,10 @@
-# Adamrainsby Emp-postgres
+# Emp-postgres
 
 ## How do I install these formulae?
 
-`brew install adamrainsby/emp-postgres/<formula>`
+`brew install EmpowerRD/emp-postgres/<formula>`
 
-Or `brew tap adamrainsby/emp-postgres` and then `brew install <formula>`.
+Or `brew tap EmpowerRD/emp-postgres` and then `brew install <formula>`.
 
 ## Documentation
 
